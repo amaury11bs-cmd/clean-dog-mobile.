@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-labelledby="titre">
+<title id="titre">Patte de chien avec une petite etoile</title>
+<g fill="#F7C51E" stroke="#1F3C9E" stroke-width="5" stroke-linejoin="round">
+  <ellipse cx="90" cy="100" rx="35" ry="25"/>
+  <ellipse cx="49" cy="58" rx="13" ry="18" transform="rotate(-22 49 58)"/>
+  <ellipse cx="78" cy="39" rx="13" ry="18" transform="rotate(-8 78 39)"/>
+  <ellipse cx="108" cy="39" rx="13" ry="18" transform="rotate(8 108 39)"/>
+  <ellipse cx="136" cy="59" rx="13" ry="18" transform="rotate(22 136 59)"/>
+</g>
+<path d="M27 105l5 11 12 2-9 8 2 12-10-6-10 6 2-12-9-8 12-2z" fill="#2E9B3E" stroke="#1F3C9E" stroke-width="3"/>
+</svg>

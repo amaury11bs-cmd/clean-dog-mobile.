@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-labelledby="titre">
+<title id="titre">Peigne et ciseaux de toilettage</title>
+<g fill="none" stroke="#1F3C9E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M35 35l95 83M130 35L35 118"/>
+  <circle cx="29" cy="27" r="15" fill="#EEF2FB"/><circle cx="29" cy="123" r="15" fill="#EEF2FB"/>
+  <path d="M85 78l-10 10M98 66l-9 9" stroke="#F47B20"/>
+  <path d="M111 28v91M124 28v91M137 28v91" stroke="#2E9B3E" stroke-width="4"/>
+  <path d="M105 28h38M105 119h38" stroke-width="5"/>
+</g>
+<circle cx="151" cy="18" r="7" fill="#F7C51E"/>
+</svg>

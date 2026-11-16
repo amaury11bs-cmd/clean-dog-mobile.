@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-labelledby="titre">
+<title id="titre">Etoiles brillantes pour une finition soignee</title>
+<path d="M89 12l14 39 39 14-39 14-14 39-14-39-39-14 39-14z" fill="#F7C51E" stroke="#1F3C9E" stroke-width="6" stroke-linejoin="round"/>
+<path d="M145 93l7 18 18 7-18 7-7 18-7-18-18-7 18-7z" fill="#F47B20" stroke="#1F3C9E" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="33" cy="38" r="8" fill="#2E9B3E"/>
+<circle cx="43" cy="112" r="5" fill="#F47B20"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-labelledby="titre">
+<title id="titre">Baignoire et bulles pour le bain du chien</title>
+<g fill="none" stroke="#1F3C9E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M28 77h124l-9 40a18 18 0 0 1-18 14H55a18 18 0 0 1-18-14z" fill="#EEF2FB"/>
+  <path d="M45 132v9M135 132v9M28 77V60a12 12 0 0 1 24 0v6"/>
+  <path d="M43 88c14 7 25-6 39 0s24-7 38 0 20-3 25-4" stroke="#2E9B3E"/>
+</g>
+<g fill="#F7C51E" stroke="#1F3C9E" stroke-width="3">
+  <circle cx="67" cy="37" r="10"/><circle cx="112" cy="27" r="7"/><circle cx="140" cy="51" r="5"/>
+</g>
+<path d="M84 48c-8-9-20 3-10 12l12 12 12-12c10-10-3-21-12-12z" fill="#F47B20" stroke="#1F3C9E" stroke-width="3"/>
+</svg>
